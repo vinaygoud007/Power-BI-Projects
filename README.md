@@ -21,15 +21,13 @@ Used Power BI Desktop to:
 ## Screenshots
 
 ### Executive Summary
-![App Screenshot](https://maven-uploads.s3.amazonaws.com/160050861/projects/Picture1.png)
+![App Screenshot](https://github.com/vinaygoud007/Power-BI-Projects/blob/main/Picture1.png?raw=true)
 
 ### Product Details
-![App Screenshot](https://maven-uploads.s3.amazonaws.com/160050861/projects/3831/Picture2.png)
+![App Screenshot](https://github.com/vinaygoud007/Power-BI-Projects/blob/main/Picture2.png?raw=true)
 
 ### Customers Details
-![App Screenshot](https://maven-uploads.s3.amazonaws.com/160050861/projects/3831/Picture3.png)
-
-![App Screenshot](https://drive.google.com/file/d/1q-ochM_12y634q9au_yken90txYRxb3O/view?usp=sharing)
+![App Screenshot](https://github.com/vinaygoud007/Power-BI-Projects/blob/main/Picture3.png?raw=true)
 
 
 ## 🛠 Skills
