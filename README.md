@@ -29,6 +29,8 @@ Used Power BI Desktop to:
 ### Customers Details
 ![App Screenshot](https://maven-uploads.s3.amazonaws.com/160050861/projects/3831/Picture3.png)
 
+![App Screenshot](https://drive.google.com/file/d/1q-ochM_12y634q9au_yken90txYRxb3O/view?usp=sharing)
+
 
 ## 🛠 Skills
 Power BI, ETL, DAX...
